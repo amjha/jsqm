@@ -2,7 +2,7 @@
   "name": "jsqm",
   "version": "0.0.9",
   "description": "JSON Query Manager",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
